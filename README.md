@@ -117,11 +117,23 @@ Index | Token       | Token Address | Decimals
 
 
 **GameTokenReactor**
+
 - Aavegotchi Campign
 
    | Contract        | Address | 
    | --------------- | -------------------------------------------| 
    | GameTokenReactor| [0x56BF7ce16E2175679553f80CA92554441a83C43e](https://polygonscan.com/address/0x56BF7ce16E2175679553f80CA92554441a83C43e)
+
+- Campign Token Mapping
+
+   | Token           | Address                                    | Decimals  
+   | --------------- | -------------------------------------------| ------------------------------------------------------------------------|
+   | PL-TESLA-USDT | [0x1032E6cb494F2A2Aac5eBef61a3988C4e9468085](https://polygonscan.com/address/0x1032E6cb494F2A2Aac5eBef61a3988C4e9468085) | 6
+   | PS-TESLA-USDT | [0xFE90e61B61b84f34023FE059a848d9ECC82A6533](https://polygonscan.com/address/0xFE90e61B61b84f34023FE059a848d9ECC82A6533) | 6
+   | PL-OHM-USDC   | [0x2285aE0DC601876e24FA0C0a300e53428f711598](https://polygonscan.com/address/0x2285aE0DC601876e24FA0C0a300e53428f711598) | 6
+   | PS-OHM-USDC   | [0x952C7626A06FE5633Dd72A5ae7a33E5c4499B13C](https://polygonscan.com/address/0x952C7626A06FE5633Dd72A5ae7a33E5c4499B13C) | 6
+   | PL-OHM-DAI    | [0x994449209e51E6491eb5479c79952Eb46965b03a](https://polygonscan.com/address/0x994449209e51E6491eb5479c79952Eb46965b03a) | 18
+   | PS-OHM-DAI    | [0xeFa24adf324a7090C81632A037B3aF1B9E3Bf8C9](https://polygonscan.com/address/0xeFa24adf324a7090C81632A037B3aF1B9E3Bf8C9) | 18
 
 ### Polygon(Matic) Mumbai Testnet
 ---
