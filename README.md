@@ -116,6 +116,13 @@ Index | Token       | Token Address | Decimals
 | DAI         | [0x8f3cf7ad23cd3cadbd9735aff958023239c6a063](https://polygonscan.com/address/0x8f3cf7ad23cd3cadbd9735aff958023239c6a063) | 18
 
 
+**GameTokenReactor**
+- Aavegotchi Campign
+
+   | Contract        | Address | 
+   | --------------- | -------------------------------------------| 
+   | GameTokenReactor| [0x56BF7ce16E2175679553f80CA92554441a83C43e](https://polygonscan.com/address/0x56BF7ce16E2175679553f80CA92554441a83C43e)
+
 ### Polygon(Matic) Mumbai Testnet
 ---
 
@@ -166,6 +173,12 @@ Index | Token       | Token Address | Decimals
 | DAI         | [0x001B3B4d0F3714Ca98ba10F6042DaEbF0B1B7b6F](https://polygonscan.com/address/0x001B3B4d0F3714Ca98ba10F6042DaEbF0B1B7b6F) | 18
 
 
+**GameTokenReactor**
+- Aavegotchi Campign
+
+   | Contract        | Address | 
+   | --------------- | -------------------------------------------| 
+   | GameTokenReactor| [0x4AEbA2775Da09803B255B2620821B0Fa518b7A7e](https://polygonscan.com/address/0x4AEbA2775Da09803B255B2620821B0Fa518b7A7e)
 ### ETH Kovan Testnet
 ---
 
